@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nombre de aplicacion">Camara</string>
+    <string name="hola">MaclawStudios Camara - version 1</string>
+    <string name="No soportado">Modelo no soportado!</string>
+    <string name="error">Algo a ido mal&#8230;</string>
+</resources>
