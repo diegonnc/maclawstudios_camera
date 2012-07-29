@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="appname">Aparat</string>
-    <string name="hello">Aparat MaclawStudios - Beta 1</string>
-    <string name="unsupported">Niewspierany model!</string>
-    <string name="error">Coś poszło źle&#8230;</string>
-</resources>
